@@ -4,4 +4,4 @@
 
 nuitka 打包 运行极快
 
-![image](https://github.com/user-attachments/assets/2d8c0447-0361-42ce-a6a1-b681b5df4e3a)
+![image](https://github.com/user-attachments/assets/72be8317-673a-4d55-b77e-79a5c54f8b08)
